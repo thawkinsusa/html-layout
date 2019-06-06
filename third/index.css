@@ -1,0 +1,62 @@
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .first {
+    height: 10%;
+    width: 100%;
+    z-index: 1;
+}
+    .second {
+    background-color: rgb(197, 191, 191);
+    padding: 25px;
+    box-sizing: border-box;
+    z-index: 2;
+    }
+    .third {
+      width: 4%;
+      height: 7vh;
+      background-color: rgb(68, 143, 228);
+      z-index: 3;
+    }
+    
+  .fifth {
+    background-color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    padding: 50px;
+    z-index: 5;
+    height: 20vh;
+    width: 100%;
+    z-index: 4;
+  }
+  
+  .sixth {
+    background-color: rgb(66, 137, 218);
+    z-index: 1;
+    width: 100% ;
+    height: 18vh ;
+    z-index: 5;
+  }
+  
+  .seventh {
+    background-color: rgb(71, 214, 183);
+    z-index: 7;
+    width: 100% ;
+    height: 18vh ;
+    z-index: 6;
+  }
+  
+  .eigth {
+    background-color: rgb(179, 231, 126);
+    width: 100% ;
+    height: 18vh ;
+    z-index: 7;
+  }
+  
+  .nineth {
+    background-color: rgb(238, 220, 25);
+    width: 100% ;
+    height: 18vh ;
+    z-index: 8;
+  }

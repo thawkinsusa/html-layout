@@ -1,0 +1,79 @@
+.dot {
+    height: 20vh;
+    width: 9%;
+    background-color:rgb(97, 204, 231);
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    right: 43%;
+    top: 2%;
+    z-index: 1;
+
+  }
+  .header{
+      background: rgb(2, 97, 2);
+      width: 30%;
+      height: 20vh;
+      position: absolute;
+      display: inline-block;
+      right: 60%;
+      top: 2%;
+      z-index: 1;
+  }
+  .recP{
+    background: rgb(92, 7, 141);
+    width: 3%;
+    height: 15vh;
+    position: absolute;
+    display: inline-block;
+    right: 96%;
+    top: 7%;
+    z-index: 1;
+  }
+
+  .recW{
+    background: rgb(255, 255, 255);
+    width: 98%;
+    height: 22vh;
+    position: absolute;
+    display: inline-block;
+    border: 5px solid black;
+    z-index: auto;
+}
+
+.recD {
+    background: rgb(255, 255, 255);
+    width: 98%;
+    top: 30%;
+    height: 30vh;
+    position: absolute;
+    display: inline-block;
+    border: 5px dashed black;
+    z-index: auto;    
+}
+
+.rect {
+    background: rgb(173, 170, 122);
+    width: 94%;
+    top: 32.5%;
+    right: 3%;
+    height: 26vh;
+    position: absolute;
+    display: inline-block;
+    z-index: 1;    
+}
+.rectb {
+    background: rgb(255, 255, 255);
+    width: 30%;
+    top: 65%;
+    right: 35%;
+    height: 28vh;
+    position: absolute;
+    display: inline-block;
+    border: 5px groove rgb(236, 230, 230);
+    z-index: 1;
+    font-size: 400%; 
+    text-align: center;
+    color: rgb(17, 17, 145); 
+    line-height: 150%
+}

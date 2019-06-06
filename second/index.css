@@ -53,14 +53,15 @@
 }
 
 .rect {
-    background: rgb(173, 170, 122);
+    background: rgb(192, 190, 167);
     width: 94%;
     top: 32.5%;
     right: 3%;
     height: 26vh;
     position: absolute;
     display: inline-block;
-    z-index: 1;    
+    z-index: 1; 
+    box-shadow: 10px 15px;   
 }
 .rectb {
     background: rgb(255, 255, 255);
